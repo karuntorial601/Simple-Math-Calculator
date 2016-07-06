@@ -1,0 +1,10 @@
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\bin\Debug\Simple Math Calculator.exe.config
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\bin\Debug\Simple Math Calculator.exe
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\bin\Debug\Simple Math Calculator.pdb
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\bin\Debug\Simple Math Calculator.xml
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\obj\Debug\Simple Math Calculator.vbprojResolveAssemblyReference.cache
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\obj\Debug\Simple_Math_Calculator.Resources.resources
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\obj\Debug\Simple Math Calculator.vbproj.GenerateResource.Cache
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\obj\Debug\Simple Math Calculator.exe
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\obj\Debug\Simple Math Calculator.xml
+c:\users\karunia sentosa\documents\visual studio 2015\Projects\Simple Math Calculator\Simple Math Calculator\obj\Debug\Simple Math Calculator.pdb
